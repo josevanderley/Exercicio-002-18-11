@@ -1,0 +1,8 @@
+C:\Users\Ornare\source\repos\Exercicio 002-18-11\bin\Debug\Exercicio 002-18-11.exe.config
+C:\Users\Ornare\source\repos\Exercicio 002-18-11\bin\Debug\Exercicio 002-18-11.exe
+C:\Users\Ornare\source\repos\Exercicio 002-18-11\bin\Debug\Exercicio 002-18-11.pdb
+C:\Users\Ornare\source\repos\Exercicio 002-18-11\obj\Debug\Exercicio 002-18-11.csproj.AssemblyReference.cache
+C:\Users\Ornare\source\repos\Exercicio 002-18-11\obj\Debug\Exercicio 002-18-11.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ornare\source\repos\Exercicio 002-18-11\obj\Debug\Exercicio 002-18-11.csproj.CoreCompileInputs.cache
+C:\Users\Ornare\source\repos\Exercicio 002-18-11\obj\Debug\Exercicio 002-18-11.exe
+C:\Users\Ornare\source\repos\Exercicio 002-18-11\obj\Debug\Exercicio 002-18-11.pdb
